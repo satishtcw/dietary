@@ -13,8 +13,10 @@ in ### `.env` file add database config
 DB_HOST=localhost \
 DB_NAME=databaseName \
 DB_USER=UserName \
-DB_PASS=Password \
+DB_PASS=Password 
 
 In `src/CORS.php` add front-end url to overcome CORS error
 
 header("Access-Control-Allow-Origin: http://localhost:3000"); your frontend url here
+
+Run Composer command ### `composer install`
