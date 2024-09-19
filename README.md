@@ -1,5 +1,9 @@
 # Dietary App Test Task Backend
 
+To login the user
+UserName : admin
+Password : admin123
+
 ## Install
 
 clone this repository using ### `git clone https://github.com/satishtcw/dietary.git`
@@ -20,3 +24,5 @@ In `src/CORS.php` add front-end url to overcome CORS error
 header("Access-Control-Allow-Origin: http://localhost:3000"); your frontend url here
 
 Run Composer command ### `composer install`
+
+I think using this code you can understand my coding skill.
