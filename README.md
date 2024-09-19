@@ -27,4 +27,6 @@ Run Composer command ### `composer install`
 
 ## go to public directory and run `php -S localhost:8080`
 
+To test csv upload you can use sample.csv in root
+
 I think using this code you can understand my coding skill.
