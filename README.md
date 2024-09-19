@@ -25,4 +25,6 @@ header("Access-Control-Allow-Origin: http://localhost:3000"); your frontend url 
 
 Run Composer command ### `composer install`
 
+## go to public directory and run `php -S localhost:8080`
+
 I think using this code you can understand my coding skill.
